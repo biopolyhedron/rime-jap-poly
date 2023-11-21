@@ -14589,32 +14589,39 @@ use_preset_vocabulary: false
 ワンピース	wan pi-su
 ワンマン	one man
 ワンマン	wan man
-開く  a ku
-開き  a ki
-開い  a i
-空く  a ku
-空き  a ki
-空い  a i
-明く  a ku
-明き  a ki
-明い  a i
-飽き  a ki
-厭き  a ki
-會ふ  a fu
-會ひ  a hi
-會う  a u
-合ふ  a fu
-合ひ  a hi
-合う  a u
-ああ  a a
-あゝ  a a
-嗚呼  a a
-ああいふ  a a i fu
-ああ云ふ  a a i fu
-ああ謂ふ  a a i fu
-あゝいふ  a a i fu
-あゝ云ふ  a a i fu
-あゝ謂ふ  a a i fu
+開く  aku
+開き  aki
+開い  ai
+空く  aku
+空き  aki
+空い  ai
+明く  aku
+明き  aki
+明い  ai
+飽き  aki
+厭き  aki
+會ふ  afu
+會ひ  ahi
+會う  au
+合ふ  afu
+合ひ  ahi
+合う  au
+ああ  aa
+あゝ  aa
+嗚呼  aa
+相  ahi
+藍  awi
+阿井  a wi
+相爭ふ  ahi arasofu
+相爭ひ  ahi arasohi
+相爭つ  ahi arasot
+相爭う  ahi arasou
+相打つ  ahi utu
+相補ふ ahi oginafu
+相補ひ ahi oginahi
+相補つ ahi oginat
+相補う ahi oginau
+
 阿修羅	a syu la
 挨拶	ai satu
 愛馬	ai ba
@@ -14700,7 +14707,7 @@ use_preset_vocabulary: false
 絆創膏	ban sau kau
 包圍	hau wi
 包圍壁	hau wi heki
-包圍网	hau wi mau
+包圍網	hau wi mau
 包裝	hau sau
 褒美	hau bi
 保安	ho an
