@@ -14590,25 +14590,31 @@ use_preset_vocabulary: false
 ワンマン	one man
 ワンマン	wan man
 開く  a ku
-開き a ki
-開い a i
-空く a ku
-空き a ki
-空い a i
-明く a ku
-明き a ki
-明い a i
-飽き a ki
-厭き a ki
-會ふ a fu
-會ひ a hi
-會う a u
-合ふ a fu
-合ひ a hi
-合う a u
-あゝ a a
-嗚呼 a a
-
+開き  a ki
+開い  a i
+空く  a ku
+空き  a ki
+空い  a i
+明く  a ku
+明き  a ki
+明い  a i
+飽き  a ki
+厭き  a ki
+會ふ  a fu
+會ひ  a hi
+會う  a u
+合ふ  a fu
+合ひ  a hi
+合う  a u
+ああ  a a
+あゝ  a a
+嗚呼  a a
+ああいふ  a a i fu
+ああ云ふ  a a i fu
+ああ謂ふ  a a i fu
+あゝいふ  a a i fu
+あゝ云ふ  a a i fu
+あゝ謂ふ  a a i fu
 阿修羅	a syu la
 挨拶	ai satu
 愛馬	ai ba
